@@ -1,3 +1,5 @@
+Investigate a TMDb Movies Datasets
+
 INTRODUCTION 
 
 This dataset contain information about 10,000 movies collected from The Movies Database (TMDb). I will explore it to find pattern and answer questions like does movies running time has similar distribution with revenue? which movies has the longest and the shortest running time? etc.
